@@ -1,0 +1,11 @@
+<req>
+    <surmame>Ivanov</surmame>
+    <name>Ivan</name>
+    <patronymic>Ivanov</patronymic>
+    <birthdate>01.01.1990</birthdate>
+    <birthplace>Moscow</birthplace>
+    <phone>89999999999</phone>
+
+</req>
+
+<!--код верный-->
